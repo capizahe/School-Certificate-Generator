@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<accessrules>
+			<accessrule kind="accessible" pattern="javafx/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/barcodes-7.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/barcodes-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/barcodes-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/font-asian-7.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/forms-7.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/forms-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/forms-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/hyph-7.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/io-7.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/io-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/io-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/kernel-7.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/kernel-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/kernel-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/layout-7.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/layout-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/layout-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/pdfa-7.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/pdfa-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/pdfa-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/pdftest-7.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/pdftest-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/pdftest-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/sign-7.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/sign-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/sign-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/styled-xml-parser-7.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/styled-xml-parser-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/styled-xml-parser-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/svg-7.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/svg-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/svg-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/slf4j-1.7.26/jcl-over-slf4j-1.7.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/slf4j-1.7.26/jcl-over-slf4j-1.7.26-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/slf4j-1.7.26/jul-to-slf4j-1.7.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/slf4j-1.7.26/jul-to-slf4j-1.7.26-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/slf4j-1.7.26/log4j-over-slf4j-1.7.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/slf4j-1.7.26/log4j-over-slf4j-1.7.26-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/slf4j-1.7.26/osgi-over-slf4j-1.7.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/slf4j-1.7.26/osgi-over-slf4j-1.7.26-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/slf4j-1.7.26/slf4j-api-1.7.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/slf4j-1.7.26/slf4j-jdk14-1.7.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/camil/OneDrive/Documents/Libreria Itext/Itextx nuevo/iText.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
